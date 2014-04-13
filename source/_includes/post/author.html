@@ -1,0 +1,16 @@
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+{% if author %}
+	<div class="byline author vcard">
+		Posted by <span class="fn">{{ site.authors[author]["name"] }}</span>
+		&nbsp;<i class="icon-facebook-sign facebook"></i>
+		&nbsp;<i class="icon-twitter-sign twitter"></i>
+		&nbsp;<i class="icon-google-plus-sign google"></i>
+	</div>	
+	
+{% endif %}

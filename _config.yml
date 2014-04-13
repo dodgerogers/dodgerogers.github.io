@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://dodgerogers.github.io
+title: Teebox blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Teebox
 simple_search: https://www.google.com/search
 description:
 
@@ -98,3 +98,19 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Social urls
+
+facebook: https://www.facebook.com/TeeboxNetwork
+twitter: https://twitter.com/Teebox_network
+google: https://plus.google.com/b/104485287628972276434/104485287628972276434/posts
+    
+# Users
+authors:
+  andy:
+    name: "Andrew Rogers"
+    twitter: https://www.facebook.com/andrewrogers747
+    facebook:
+    linkedin:
+    gravatar:
+    google: 

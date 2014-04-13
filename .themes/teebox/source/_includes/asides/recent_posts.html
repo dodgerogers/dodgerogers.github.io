@@ -1,0 +1,12 @@
+<section>
+  <ul id="recent_posts" class="nav nav-list">
+    <li class="nav-header" style="font-size:16px;">Recent Posts</li>
+    {% for post in site.posts limit: site.recent_posts %}
+      <article="post">
+        <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a><br>
+		{% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
+      </article>
+	<hr>
+    {% endfor %}
+  </ul>
+</section>
