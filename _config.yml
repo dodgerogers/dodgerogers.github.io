@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-48283767-2
 
 # Facebook Like
 facebook_like: false
@@ -110,7 +110,7 @@ authors:
   andy:
     name: "Andrew Rogers"
     twitter: https://www.facebook.com/andrewrogers747
-    facebook:
-    linkedin:
-    gravatar:
-    google: 
+    facebook: https://www.facebook.com/Andrew.rogers747
+    linkedin: http://www.linkedin.com/profile/view?id=52220364
+    google: https://plus.google.com/+andyrogers747/posts
+    github: https://gist.github.com/dodgerogers

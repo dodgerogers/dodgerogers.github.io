@@ -7,10 +7,28 @@
 {% endif %}
 {% if author %}
 	<div class="byline author vcard">
+		
 		Posted by <span class="fn">{{ site.authors[author]["name"] }}</span>
-		&nbsp;<i class="icon-facebook-sign facebook"></i>
-		&nbsp;<i class="icon-twitter-sign twitter"></i>
-		&nbsp;<i class="icon-google-plus-sign google"></i>
+		
+		{% if site.authors[author]["facebook"] %}
+			&nbsp;<a href="{{ site.authors[author]['facebook'] }}"><i class="icon-facebook-sign facebook"></i></a>
+		{% endif %}	
+		
+		{% if site.authors[author]["twitter"] %}	
+			&nbsp;<a href="{{ site.authors[author]['twitter'] }}"><i class="icon-twitter-sign twitter"></i></a>
+		{% endif %}	
+			
+		{% if site.authors[author]["google"] %}		
+			&nbsp;<a href="{{ site.authors[author]['google'] }}"><i class="icon-google-plus-sign google"></i></a>
+		{% endif %}	
+			
+		{% if site.authors[author]["linkedin"] %}
+			&nbsp;<a href="{{ site.authors[author]['linkedin'] }}"><i class="icon-linkedin-sign twitter"></i></a>
+		{% endif %}		
+		
+		{% if site.authors[author]["github"] %}	
+			&nbsp;<a href="{{ site.authors[author]['github'] }}"><i class="icon-github"></i></a>
+		{% endif %}	
 	</div>	
 	
 {% endif %}

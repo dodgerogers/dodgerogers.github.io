@@ -36,6 +36,13 @@ footer {
 #push {
 	height:150px;
 }
+
+article.post {
+	padding:5px 20px;
+	background: #fff;
+	margin-bottom:10px;
+	@include box-sizing(border-box);
+}
 // Teebox logo icon //
 
 @font-face {
