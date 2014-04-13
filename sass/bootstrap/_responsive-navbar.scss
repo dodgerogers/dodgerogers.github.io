@@ -167,6 +167,9 @@
   .navbar .btn-navbar {
     display: block;
 	background: $ocean;
+	& a:hover {
+		color: $blackhole;
+	}
   }
 
   // STATIC NAVBAR

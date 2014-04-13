@@ -15,7 +15,10 @@ footer {
 		background: $universe;
 		height: 150px;
 		a {
-			color: $light-gundam;
+			color: $gundam;
+			&:hover {
+				color: $light-gundam;
+			}
 		}
 		.footer-title {
 			text-align: left;
@@ -42,6 +45,10 @@ article.post {
 	background: #fff;
 	margin-bottom:10px;
 	@include box-sizing(border-box);
+}
+
+.sidebar-nav {
+	margin-bottom: 20px;
 }
 // Teebox logo icon //
 
