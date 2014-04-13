@@ -7,7 +7,7 @@ categories:
 author: andy
 ---
 
-{% img ./images/masters.jpg %}
+{% img /images/masters.jpg %}
 
 We’re coming up to the most iconic spectacle in golf and once again Tiger Woods is making the headlines for all the wrong reasons. Surgery on a pinched nerve in his back has forced him to withdraw from the tournament for the first time since 1994. Having withdrawn once and posting at least three of his highest scores ever this season, seeing him lift the trophy on Sunday would have been less than probable. However, unlike any other player on the PGA Tour, he gets the people going, as well as the advertising revenues – even when he’s on the second page of the leaderboard.
 
@@ -17,7 +17,7 @@ The experts may be getting themselves all worked up regarding Tiger’s absence,
 
 Omitting Jimmy Walker for his amazing triple win season start, the latest batch of PGA winners have all limped and fumbled over the finishing line, leaving fans deservedly concerned and uninspired about the fate of 2014’s first major. World rankings and national qualifying tournaments play a much larger part in concocting the field for the Masters than regular PGA tournaments, so fret not, the majority of lackadaisical PGA millennials will not be making an appearance on this hallowed turf, leaving the door wide open for one of our old favorites.
 
-{% img ./images/masters2.jpg %}
+{% img /images/masters2.jpg %}
 
 Stenson, Mickelson, Day and McIlroy are all odds on favorites, but should we trust the experts? Mickelson is random at best, Stenson has questionable results at Augusta, and Day has just returned after a six week hiatus following wrist surgery. Taking this into consideration, we weigh up our options and share our top three Masters picks.
 

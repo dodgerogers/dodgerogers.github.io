@@ -18,7 +18,7 @@ Spin loft is the angle between two vectors: dynamic loft and angle of attack. It
 
 Well, lets take two shots with a driver; we’ll negate shaft flex for simplicity and assume centered contact and a 100 mph club head speed. Shot one’s angle of attack is -5° and the dynamic loft is 15°, while shot two’s angle of attack is +10°, with a dynamic loft of 15°. Common sense suggests that the two shots should launch similarly with such comparable dynamic lofts, but with a 15° difference in spin loft, this isn’t the case. Shot one launches lower, producing higher spin, 20° of spin loft, and a ball speed of 140 mph, while shot two launches higher with less spin, 5° of spin loft and 149 mph ball speed. With an approximate gain of nine mph ball speed, those few degrees really do add up.
 
-{% img ./images/golf-angle-diagram.png %}
+{% img /images/golf-angle-diagram.png %}
 
 Lowering your spin loft is easier said than done, but getting yourself booked on a launch monitor and examining your dynamic loft and angle of attack is a good start. We recommend a fitting center at Roger Dunn from Worldwide Golf Shops. (Link: http://www.worldwidegolfshops.com/wwg-fitting-centers.html ) If nothing else, recognizing these concepts will help you understand the laws of ball flight better than your golfing buddies. For more information, check out this Trackman Smash Factor & Spin Loft case study.
 
