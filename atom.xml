@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Teebox Blog]]></title>
-  <link href="http://blog.teeboxnetwork.com/atom.xml" rel="self"/>
-  <link href="http://blog.teeboxnetwork.com/"/>
-  <updated>2014-04-17T20:21:35-04:00</updated>
-  <id>http://blog.teeboxnetwork.com/</id>
+  <title><![CDATA[Teebox blog]]></title>
+  <link href="http://dodgerogers.github.io/atom.xml" rel="self"/>
+  <link href="http://dodgerogers.github.io/"/>
+  <updated>2014-04-17T20:22:49-04:00</updated>
+  <id>http://dodgerogers.github.io/</id>
   <author>
-    <name><![CDATA[andy]]></name>
+    <name><![CDATA[Teebox]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Self Diagnosis - What does you clubface say about you?]]></title>
-    <link href="http://blog.teeboxnetwork.com/blog/2014/04/16/self-diagnosis-what-does-you-clubface-say-about-you/"/>
+    <link href="http://dodgerogers.github.io/blog/2014/04/16/self-diagnosis-what-does-you-clubface-say-about-you/"/>
     <updated>2014-04-16T22:04:32-04:00</updated>
-    <id>http://blog.teeboxnetwork.com/blog/2014/04/16/self-diagnosis-what-does-you-clubface-say-about-you</id>
+    <id>http://dodgerogers.github.io/blog/2014/04/16/self-diagnosis-what-does-you-clubface-say-about-you</id>
     <content type="html"><![CDATA[<p>You&rsquo;ve pored over the instructional section in every golf magazine, worked hard on your swing in the living room, and you’re ready for 18 holes this weekend with your buddies. But standing on the 10th tee, five shots over your handicap, it seems like everyone has an opinion on what exactly is going wrong. Ninety blows later and no matter what you tried, PGA Tour glory seems farther away than ever.</p>
 
 <p>The authenticity of your buddies&#8217; tips are always under question, and these remarks and quick fixes rarely hit the mark. Want to get your golfing mojo back? Throw away the magazines, stop listening to your mates, and take control of your game by understanding the physics behind your shots. Quick fixes and clichés simply don&rsquo;t cut it anymore.</p>
@@ -26,7 +26,7 @@
 
 <p>So how is this going to help me make the cut, you ask? Lets look at a shot that haunts our nightmares. Starting left of the target and curving violently to the right, it’s the dreaded pull-slice. The shot starts left as the face is pointing left at impact, and due to the path of the club pointing further left than the face, the ball curves to the right.</p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/face-angle-relative-to-path.png"></p>
+<p><img src="http://dodgerogers.github.io/images/face-angle-relative-to-path.png"></p>
 
 <p>If the face is open relative to the path by 0.5 to 20 degrees, the ball will always curve to the right with some spin. And what if the face is closed relative to the path? You guessed it, the ball curves to the left. It&rsquo;s really that simple.</p>
 
@@ -34,7 +34,7 @@
 
 <p>Are your shots starting straighter? Great, you&rsquo;re halfway there. Now you just need the club path pointing further right than the clubface for that PGA Tour power draw.</p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/face-angle-relative-to-path-draw.png"></p>
+<p><img src="http://dodgerogers.github.io/images/face-angle-relative-to-path-draw.png"></p>
 
 <p>Here are some common pro-approved moves that you can use to groove that in-to-out swing path:</p>
 
@@ -51,10 +51,10 @@
   
   <entry>
     <title type="html"><![CDATA[Who we are betting on in the Masters]]></title>
-    <link href="http://blog.teeboxnetwork.com/blog/2014/04/12/who-we-are-betting-on-in-the-masters/"/>
+    <link href="http://dodgerogers.github.io/blog/2014/04/12/who-we-are-betting-on-in-the-masters/"/>
     <updated>2014-04-12T21:48:37-04:00</updated>
-    <id>http://blog.teeboxnetwork.com/blog/2014/04/12/who-we-are-betting-on-in-the-masters</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.teeboxnetwork.com/images/masters.jpg"></p>
+    <id>http://dodgerogers.github.io/blog/2014/04/12/who-we-are-betting-on-in-the-masters</id>
+    <content type="html"><![CDATA[<p><img src="http://dodgerogers.github.io/images/masters.jpg"></p>
 
 <p>We’re coming up to the most iconic spectacle in golf and once again Tiger Woods is making the headlines for all the wrong reasons. Surgery on a pinched nerve in his back has forced him to withdraw from the tournament for the first time since 1994. Having withdrawn once and posting at least three of his highest scores ever this season, seeing him lift the trophy on Sunday would have been less than probable. However, unlike any other player on the PGA Tour, he gets the people going, as well as the advertising revenues – even when he’s on the second page of the leaderboard.</p>
 
@@ -64,7 +64,7 @@
 
 <p>Omitting Jimmy Walker for his amazing triple win season start, the latest batch of PGA winners have all limped and fumbled over the finishing line, leaving fans deservedly concerned and uninspired about the fate of 2014’s first major. World rankings and national qualifying tournaments play a much larger part in concocting the field for the Masters than regular PGA tournaments, so fret not, the majority of lackadaisical PGA millennials will not be making an appearance on this hallowed turf, leaving the door wide open for one of our old favorites.</p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/masters2.jpg"></p>
+<p><img src="http://dodgerogers.github.io/images/masters2.jpg"></p>
 
 <p>Stenson, Mickelson, Day and McIlroy are all odds on favorites, but should we trust the experts? Mickelson is random at best, Stenson has questionable results at Augusta, and Day has just returned after a six week hiatus following wrist surgery. Taking this into consideration, we weigh up our options and share our top three Masters picks.</p>
 
@@ -78,9 +78,9 @@
   
   <entry>
     <title type="html"><![CDATA[Two modern golf principles you need to know about]]></title>
-    <link href="http://blog.teeboxnetwork.com/blog/2014/04/12/two-modern-golf-principles-you-need-to-know-about/"/>
+    <link href="http://dodgerogers.github.io/blog/2014/04/12/two-modern-golf-principles-you-need-to-know-about/"/>
     <updated>2014-04-12T21:47:40-04:00</updated>
-    <id>http://blog.teeboxnetwork.com/blog/2014/04/12/two-modern-golf-principles-you-need-to-know-about</id>
+    <id>http://dodgerogers.github.io/blog/2014/04/12/two-modern-golf-principles-you-need-to-know-about</id>
     <content type="html"><![CDATA[<p>Punctuated by high, weak, and disparaging shots, another routine weekend hack around the golf course can leave you in anguish. If you suffer from such afflictions, here are two modern golfing principles that can change the way you drive the ball.</p>
 
 <p>Spin Loft</p>
@@ -91,7 +91,7 @@
 
 <p>Well, lets take two shots with a driver; we’ll negate shaft flex for simplicity and assume centered contact and a 100 mph club head speed. Shot one’s angle of attack is -5° and the dynamic loft is 15°, while shot two’s angle of attack is +10°, with a dynamic loft of 15°. Common sense suggests that the two shots should launch similarly with such comparable dynamic lofts, but with a 15° difference in spin loft, this isn’t the case. Shot one launches lower, producing higher spin, 20° of spin loft, and a ball speed of 140 mph, while shot two launches higher with less spin, 5° of spin loft and 149 mph ball speed. With an approximate gain of nine mph ball speed, those few degrees really do add up.</p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/golf-angle-diagram.png"></p>
+<p><img src="http://dodgerogers.github.io/images/golf-angle-diagram.png"></p>
 
 <p>Lowering your spin loft is easier said than done, but getting yourself booked on a launch monitor and examining your dynamic loft and angle of attack is a good start. We recommend a fitting center at Roger Dunn from Worldwide Golf Shops. (Link: <a href="http://www.worldwidegolfshops.com/wwg-fitting-centers.html">http://www.worldwidegolfshops.com/wwg-fitting-centers.html</a> ) If nothing else, recognizing these concepts will help you understand the laws of ball flight better than your golfing buddies. For more information, check out this Trackman Smash Factor &amp; Spin Loft case study.</p>
 
@@ -111,14 +111,14 @@
   
   <entry>
     <title type="html"><![CDATA[Three golf gadgets to help you take control of your game]]></title>
-    <link href="http://blog.teeboxnetwork.com/blog/2014/04/11/three-golf-gadgets-to-help-you-take-control-of-your-game/"/>
+    <link href="http://dodgerogers.github.io/blog/2014/04/11/three-golf-gadgets-to-help-you-take-control-of-your-game/"/>
     <updated>2014-04-11T21:53:26-04:00</updated>
-    <id>http://blog.teeboxnetwork.com/blog/2014/04/11/three-golf-gadgets-to-help-you-take-control-of-your-game</id>
+    <id>http://dodgerogers.github.io/blog/2014/04/11/three-golf-gadgets-to-help-you-take-control-of-your-game</id>
     <content type="html"><![CDATA[<p>Three golf gadgets to help you take control of your game As tempting as it may be to spend your hard earned cash on one of the new adjustable drivers or a set of muscle-cavity-blade irons, the fact is whilst these may improve your golfing street credit, the will have little consequence on your game. Here are Teebox’s top 3 golfing gadgets to help you understand your swing mechanics and idiosyncrasies to lower your scores.</p>
 
 <p><strong>Swingbyte 2</strong></p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/App-device-med.jpg"></p>
+<p><img src="http://dodgerogers.github.io/images/App-Device-med.jpg"></p>
 
 <p>Whilst advances in club technology can make minor reductions to axis spin and increases in ball speed, the secret to pure golf shots lies in understanding how to apply the club correctly to the ball. Swingbyte 2 clips onto any club and aims to shed light on our own swing mechanics by wirelessly transmitting real-time swing data and interactive 3-D modeling to your iOS or Andriod device. They have made slip-free stability enhancements over the previous Swingbyte unit as well as a major overhaul of their app and online analytics software.</p>
 
@@ -126,7 +126,7 @@
 
 <p><strong>The Orange Stick Putting Aid</strong></p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/orange-stick.jpg"></p>
+<p><img src="http://dodgerogers.github.io/images/orange-stick.jpg"></p>
 
 <p>Out of all the clubs in the bag, none has more consequence on your score than the putter. Whilst it is universally accepted that there is no right or wrong in putting, one thing in common with all the greats is a square face at impact. Doppler radar technology has confirmed that face angle at impact is the overriding factor in determining where the ball starts relative to our target.</p>
 
@@ -138,7 +138,7 @@
 
 <p><strong>Bushnell V3 Rangefinder</strong></p>
 
-<p><img src="http://blog.teeboxnetwork.com/images/bushnell-v3.jpg"></p>
+<p><img src="http://dodgerogers.github.io/images/bushnell-v3.jpg"></p>
 
 <p>Markers and distances found on the course seldom bear any relevance to the actual distance you have to the pin. A back pin position may be as much as thirty yards out from the yardage declared on the scorecard.</p>
 

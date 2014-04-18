@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.teeboxnetwork.com/sitemap.xml 
+Sitemap: http://dodgerogers.github.io/sitemap.xml 
