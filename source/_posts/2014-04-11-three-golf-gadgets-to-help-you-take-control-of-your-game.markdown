@@ -11,7 +11,7 @@ Three golf gadgets to help you take control of your game As tempting as it may b
 
 **Swingbyte 2**
 
-{% img /images/App-device-med.jpg %}
+{% img /images/App-Device-med.jpg %}
 
 Whilst advances in club technology can make minor reductions to axis spin and increases in ball speed, the secret to pure golf shots lies in understanding how to apply the club correctly to the ball. Swingbyte 2 clips onto any club and aims to shed light on our own swing mechanics by wirelessly transmitting real-time swing data and interactive 3-D modeling to your iOS or Andriod device. They have made slip-free stability enhancements over the previous Swingbyte unit as well as a major overhaul of their app and online analytics software. 
 
