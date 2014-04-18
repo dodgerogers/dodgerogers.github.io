@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://dodgerogers.github.io
-title: Teebox blog
-subtitle: A blogging framework for hackers.
-author: Teebox
+url: http://blog.teeboxnetwork.com
+title: Teebox Blog
+subtitle: Keep up to date with the latest from Teebox.
+author: andy
 simple_search: https://www.google.com/search
 description:
 
@@ -73,7 +73,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -97,7 +97,7 @@ disqus_show_comment_count: false
 google_analytics_tracking_id: UA-48283767-2
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
 
 # Social urls
 

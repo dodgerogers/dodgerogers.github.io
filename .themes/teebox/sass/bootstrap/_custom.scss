@@ -9,6 +9,29 @@ html, body {
 	margin: 0 auto -150px;
 }
 
+.home {
+	background-color: #29b0c2;
+	margin:0 auto;
+	width:100%;
+}
+.teebox-bg {
+	background: url(/images/blog-banner-2.jpg);
+	background-position: center 80%;
+	background-repeat:no-repeat;
+	color: #fff;
+	@include border-radius(0px);
+	margin-top:-20px;
+	h1 {
+		font-family:$bebas;
+		font-size:40px;
+		font-weight:300;
+		color: $white!important;
+		letter-spacing: 3px !important;
+		margin: 0;
+		text-shadow: 0 3px 0px $red;
+	}
+}
+
 footer {
 	&.page-footer {
 		font-weight: 400;
