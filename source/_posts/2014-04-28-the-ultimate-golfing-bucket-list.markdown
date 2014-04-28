@@ -17,10 +17,7 @@ Once a barren expanse of ravaged timberland, the efforts of the iconic Donald Ro
 
 Whilst many tout No.1 as the most idyllic of the Pinehurst properties, No. 2 resembles Sebonack or an American Royal Melbourne for its raw natural beauty. Sporting some of the most complex and undulating greens on the planet, No. 2 remains a stern test for all abilities and places an emphasis on the short game. With eight championship courses and more golf holes than any other resort in the country, do yourself a favor and make a week of it.
 
-Green fees range from $329.00 to $389.00, with packages available. Visit www.pinehurst.com.
-
-http://www.pinehurst.com/golf/courses/no-2/
-
+Green fees range from $329.00 to $389.00, with packages available. Visit www.pinehurst.com. Visit http://www.pinehurst.com/golf/courses/no-2/
 
 **Cape Kidnappers - Hawkes Bay, New Zealand**
 
@@ -30,8 +27,7 @@ Resembling Pebble Beach on steroids, Cape Kidnappers sits upon the commanding ch
 
 Danger takes many forms at Kidnappers. Optical illusions and out-of-bounds lurk on almost every hole, so high handicappers beware; the ammunition bill may very well exceed the green fee. As a bonus, make the twelve-plus hour flight and Kauri Cliffs—ranked 18th in the world and quite conceivably the more handsome of the two—is just down the road. 
 
-Green fees range from $234 to $350, with many packages available. Visit www.capekidnappers.com.
-http://www.capekidnappers.com/
+Green fees range from $234 to $350, with many packages available. Visit http://www.capekidnappers.com/
 
 **Shinnecock Hills - Southampton, New York**
 
@@ -41,10 +37,7 @@ Steeped in history and host to the brutal 2004 US Open (and again in 2018), Shin
 
 Initially designed by Scottish architect Willie Dun, some consider Shinnecock to be the advent of classic American course design. Natural rolling topography and a classic links layout rank it consistently in the top five of Golf Digest’s Greatest Courses. Although possessing arguably the best back nine in golf and one of the purest experiences, the course is humbling off the back tees. At around 7,000 yards, it’s not the length that will beat you, but rather the acclivous putting surfaces.
  
-With green fees ranging from $60 on the weekday to $325 on the weekend, get schmoozing quickly to find yourself a member to buddy up with. Top the round off with a Long Island Iced Tea in the bar to wash the defeat away.
-
-http://shinnecockhillsgolfclub.org/
-
+With green fees ranging from $60 on the weekday to $325 on the weekend, get schmoozing quickly to find yourself a member to buddy up with. Top the round off with a Long Island Iced Tea in the bar to wash the defeat away. Visit http://shinnecockhillsgolfclub.org/
 
 **Bethpage Black - Farmingdale, New York**
 
@@ -54,8 +47,4 @@ A ski slope rating system is used to caution potential golfers of the Black’s 
 
 A once rough and ready municipal course, it was mutated into a groomed giant killer after the torturous 102nd US Open. Thousands make the pilgrimage to Farmingdale every year in what has become a rite of passage for the avid golfer. Think of it as golf’s answer to Tough Mudder.
 
-Like a lot of pain with your pleasure? At $50 to $60 for New York residents and $100 to $120 for non-residents, there are plenty of people who would pay a lot more for that kind of punishment. Visit www.bethpageproshop.com. 
-
-https://www.bethpageproshop.com/
- 
-
+Like a lot of pain with your pleasure? At $50 to $60 for New York residents and $100 to $120 for non-residents, there are plenty of people who would pay a lot more for that kind of punishment. Visit https://www.bethpageproshop.com/
