@@ -41,7 +41,7 @@ Steeped in history and host to the brutal 2004 US Open (and again in 2018), Shin
 
 Initially designed by Scottish architect Willie Dun, some consider Shinnecock to be the advent of classic American course design. Natural rolling topography and a classic links layout rank it consistently in the top five of Golf Digest’s Greatest Courses. Although possessing arguably the best back nine in golf and one of the purest experiences, the course is humbling off the back tees. At around 7,000 yards, it’s not the length that will beat you, but rather the acclivous putting surfaces.
  
-With green fees ranging from $60 on the weekday to $325 on the weekend, get schmoozing quickly to find yourself a member to buddy up with. Top the round off with a Long Island Iced Tea in the bar to wash the defeat away. Visit www.shinnecockhillsgolfclub.org. 
+With green fees ranging from $60 on the weekday to $325 on the weekend, get schmoozing quickly to find yourself a member to buddy up with. Top the round off with a Long Island Iced Tea in the bar to wash the defeat away.
 
 http://shinnecockhillsgolfclub.org/
 
